@@ -41,4 +41,6 @@ Library -- book ---- Book
 
 ![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/syllabus.jpg?raw=true)
 
-![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming.jpg?raw=true)
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming1.jpg?raw=true)
+
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming2.jpg?raw=true)
