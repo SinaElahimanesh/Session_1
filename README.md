@@ -39,8 +39,8 @@ Library -- book ---- Book
 13- a summary to HashMap and ArrayList
 
 
-![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/syllabus.jpg?raw=true)
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/syllabus.png?raw=true)
 
-![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming1.jpg?raw=true)
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming1.png?raw=true)
 
-![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming2.jpg?raw=true)
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming2.png?raw=true)
