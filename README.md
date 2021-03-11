@@ -37,3 +37,8 @@ Library -- book ---- Book
 12- Equals Method
 
 13- a summary to HashMap and ArrayList
+
+
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/syllabus.jpg?raw=true)
+
+![alt text](https://github.com/SinaElahimanesh/Session_1/blob/master/programming.jpg?raw=true)
